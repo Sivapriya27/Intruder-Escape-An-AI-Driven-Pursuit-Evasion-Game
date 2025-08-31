@@ -1,11 +1,9 @@
 # Intruder Escape 🕹️🤖
 
 An AI-driven pursuit–evasion game where you (the intruder) must survive as long as possible while four robots use **A\*** pathfinding to hunt you down. Built with Python and Pygame.
-
 <p align="center">
   <img src="assets/demo.gif" alt="Intruder Escape demo" width="640"/>
 </p>
-
 ---
 
 ## 🎮 How to play
@@ -35,9 +33,9 @@ intruder-escape/
 ├─ src/
 │ └─ intruder_escape.py # main game loop, UI, A* algorithm
 ├─ assets/
-│ └─ screenshots/ # images used in this README
+│ └─ screenshots/ # images of the game
 ├─ docs/
-│ └─ Intruder_Escape_Project_Report.pdf
+│ └─ Intruder_Escape-Project Report.pdf
 ├─ requirements.txt
 └─ README.md
 
@@ -88,7 +86,7 @@ This makes it the clear choice for real-time pursuit–evasion gameplay.
 ## 📑 Documentation
 
 For a deeper discussion of methodology, experiments, and results, see the full write-up:  
-[`docs/Intruder_Escape_Project_Report.pdf`](docs/Intruder_Escape_Project_Report.pdf)
+[`docs/Intruder_Escape-Project Report.pdf`](docs/Intruder_Escape-Project Report.pdf)
 
 ---
 
