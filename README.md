@@ -4,7 +4,6 @@ An AI-driven pursuit–evasion game where you (the intruder) must survive as lon
 <p align="center">
   <img src="assets/demo.gif" alt="Intruder Escape demo" width="640"/>
 </p>
----
 
 ## 🎮 How to play
 
@@ -29,16 +28,7 @@ An AI-driven pursuit–evasion game where you (the intruder) must survive as lon
 ---
 
 ## 📂 Project structure
-intruder-escape/
-├─ src/
-│ └─ intruder_escape.py # main game loop, UI, A* algorithm
-├─ assets/
-│ └─ screenshots/ # images of the game
-├─ docs/
-│ └─ Intruder_Escape-Project Report.pdf
-├─ requirements.txt
-└─ README.md
-
+Refer the repository
 ---
 
 ## 🧩 Key modules & responsibilities
