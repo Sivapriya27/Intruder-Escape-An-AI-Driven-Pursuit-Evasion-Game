@@ -27,10 +27,6 @@ An AI-driven pursuit–evasion game where you (the intruder) must survive as lon
 
 ---
 
-## 📂 Project structure
-Refer the repository
----
-
 ## 🧩 Key modules & responsibilities
 
 - **Game loop & UI** → handles buttons, grid drawing, overlay, and status text.  
