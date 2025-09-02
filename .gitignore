@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build / dist files
+build/
+dist/
+*.egg-info/
+
+# Game-generated files
+leaderboard.json
+high_score.json

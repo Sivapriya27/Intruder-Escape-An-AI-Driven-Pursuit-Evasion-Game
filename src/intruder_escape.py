@@ -1,3 +1,9 @@
+"""
+Intruder Escape Game
+--------------------
+An AI pursuit–evasion game where robots use A* pathfinding to chase the player.
+Built with Python and Pygame.
+"""
 
 import pygame
 import random
