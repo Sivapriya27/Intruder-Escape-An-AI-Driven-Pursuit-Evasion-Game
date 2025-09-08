@@ -1,6 +1,6 @@
 # Intruder Escape - An AI Driven Pursuit Evasion Game 🕹️🤖
 
-An AI-driven pursuit–evasion game where you (the intruder) must survive as long as possible while four robots use **A\*** pathfinding to hunt you down. Built with Python and Pygame.
+An AI-driven pursuit-evasion game where you (the intruder) must survive as long as possible while four robots use **A\*** pathfinding to hunt you down. Built with Python and Pygame.
 <p align="center">
   <img src="assets/demo.gif" alt="Intruder Escape demo" width="640"/>
 </p>
