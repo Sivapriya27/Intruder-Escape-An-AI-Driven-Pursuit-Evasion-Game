@@ -9,7 +9,7 @@ An AI-driven pursuit–evasion game where you (the intruder) must survive as lon
 
 - Click **Place Intruder**, then click a white cell to set your starting spot.
 - Press **Start Game** or hit **SPACE** to begin.
-- Move with **arrow keys**. Survive as long as you can—robots get faster over time.
+- Move with **arrow keys**. Survive as long as you can-robots get faster over time.
 - Use **New Layout** for a fresh randomized grid.  
 - **Clear Grid** resets the state.
 
@@ -56,7 +56,7 @@ We tested **Uniform Cost Search (UCS)** against **A\*** to evaluate efficiency:
 | **Runtime (ms)**    | 0.052                     | 0.112              |
 
 ➡️ **A\*** was ~**2.15× faster**, explored ~**4.4× fewer nodes**, while producing nearly identical path lengths.  
-This makes it the clear choice for real-time pursuit–evasion gameplay.
+This makes it the clear choice for real-time pursuit-evasion gameplay.
 
 ---
 
